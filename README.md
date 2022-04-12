@@ -1,4 +1,4 @@
-# W210-Capstone-Project
+# Where's Waldo Image Retrieval Project
 Accuracy_check.ipynb - 
 
 Download_Model_features.ipynb - 

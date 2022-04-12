@@ -1,5 +1,5 @@
 # Where's Waldo Image Retrieval Project
-Accuracy_check.ipynb - 
+Accuracy_check.ipynb - Calculates the percision by class, model, and level on the SOP products set.
 
 Download_Model_features.ipynb - Downloads the features of the CO model and the Reranking Transformer for all images in the SOP dataset
 
